@@ -81,7 +81,7 @@
 }
 
 .place__cta {
-   grid-area: button;
+  grid-area: button;
   transition: opacity 0.3s ease;
   color: #fff;
   text-decoration: none;
@@ -113,7 +113,6 @@
     max-width: 720px;
   }
 
-  }
   .place__image {
     width: 100%;
     height: auto;
