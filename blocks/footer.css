@@ -1,5 +1,4 @@
 .footer {
-  font-family: "Inter";
   display: flex;
   justify-content: center;
   padding: 46px 0 24px;
@@ -14,7 +13,6 @@
 
 @media screen and (max-width: 768px) {
   .footer {
-    font-family: "Inter", sans-serif;
     display: flex;
     justify-content: center;
     padding: 46px 0 24px;
@@ -29,7 +27,6 @@
 
 @media screen and (max-width: 320px) {
   .footer {
-    font-family: "Inter", sans-serif;
     display: flex;
     justify-content: center;
     padding: 46px 0 24px;
@@ -39,7 +36,6 @@
     font-size: 14px;
     line-height: 16px;
     margin: 0;
-    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 14px;
