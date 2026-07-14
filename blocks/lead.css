@@ -24,6 +24,8 @@
   max-height: 100%;
   object-fit: cover;
   display: block;
+  width: 984px;
+  height: 615px;
 }
 
 @media screen and (max-width: 768px) {
